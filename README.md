@@ -9,7 +9,7 @@
 ## Instalacja:
 
 * Pobierz wtyczke tampermonkey: [Chrome web store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pl)
-* Zainstaluj skrypt <b style="color: yellow;">bot.user.js</b> znajdujący sie w tym repository (czyli pod tym [linkiem](https://github.com/katanatop1/g2bot/blob/main/bot.user.js) - jak wejdziesz pod ten link to powinno samo zaproponować instalacje)
+* Zainstaluj skrypt <b style="color: yellow;">bot.user.js</b> znajdujący sie w tym repository (czyli pod tym [linkiem](https://github.com/katanatop1/g2bot/raw/main/bot.user.js) - jak wejdziesz pod ten link to powinno samo zaproponować instalacje)
 * <b style="color:red;">Aby bot poprawnie funcjonował trzeba być w gangu!</b>
 ## Ustawienia:
 Aby edytować ustawienia bota wejdz w opcje edycji skryptu:<br>
