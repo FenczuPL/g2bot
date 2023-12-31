@@ -4,8 +4,11 @@
     <h1>g2.gangsters.pl bot</h1>
     <h3>Aktualny na 31.12.2023 (chrome/firefox)</h3>
   </p>
+
 </div>
 
+## Zdanie administratora na temat tych skryptów:
+![admin](admin.png)
 ## Instalacja:
 
 * Pobierz wtyczke tampermonkey: [Chrome web store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pl)
@@ -14,6 +17,7 @@
 ## Ustawienia:
 Aby edytować ustawienia bota wejdz w opcje edycji skryptu:<br>
 ![Alt text](image.png)
+
 * <b>autoLogin</b><br>
 Jeśli chcesz aby bot się automatycznie logował wrzuć swój email i hasło aby automatycznie cię
 logowało po wejściu w gangsters.pl i ustaw wartość <b>autoLogin</b> na <b>true</b>
